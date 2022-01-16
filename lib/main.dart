@@ -64,7 +64,7 @@ class _AnaSayfaState extends State<AnaSayfa>
         backgroundColor: Colors.transparent,
         elevation: 0,
         title: const Text(
-          "Moda Uygulaması",
+          "Moda App",
           style: TextStyle(
               fontFamily: 'Montserrat',
               fontSize: 22,
@@ -151,7 +151,7 @@ class _AnaSayfaState extends State<AnaSayfa>
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: const <Widget>[
                                 Text(
-                                  "Daisy",
+                                  "Papatya",
                                   style: TextStyle(
                                       fontFamily: 'Montserrat',
                                       fontSize: 16,
@@ -161,7 +161,7 @@ class _AnaSayfaState extends State<AnaSayfa>
                                   height: 5,
                                 ),
                                 Text(
-                                  "34 mins ago",
+                                  "34 dakika önce",
                                   style: TextStyle(
                                       fontFamily: 'Montserrat',
                                       fontSize: 10,
@@ -184,8 +184,8 @@ class _AnaSayfaState extends State<AnaSayfa>
                         height: 15,
                       ),
                       const Text(
-                          "This Offical website features a ribbed knit zipper jacket that is"
-                          "modern  and stylish. It looks very temparament and is recommend to friends",
+                         "Bu sitede modern ve şık fermuarlı bir ceket bulunmaktadır. "    
+                         "Tavsiye ediniz.",
                           style: TextStyle(
                             fontFamily: 'Montserrat',
                             fontSize: 10,
@@ -288,7 +288,7 @@ class _AnaSayfaState extends State<AnaSayfa>
                                   color: Colors.brown.withOpacity(0.5)),
                               child: const Center(
                                 child: Text(
-                                  "#Louis vuitton",
+                                  "#Mavi",
                                   style: TextStyle(
                                       fontFamily: 'Montserrat',
                                       fontSize: 10,
@@ -306,7 +306,7 @@ class _AnaSayfaState extends State<AnaSayfa>
                                   color: Colors.brown.withOpacity(0.5)),
                               child: const Center(
                                 child: Text(
-                                  "#Chloe",
+                                  "#Coton",
                                   style: TextStyle(
                                       fontFamily: 'Montserrat',
                                       fontSize: 10,
@@ -427,7 +427,7 @@ class _AnaSayfaState extends State<AnaSayfa>
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(15), color: Colors.brown),
           child: const Center(
-            child: Text("Follow",
+            child: Text("Takip Et",
                 style: TextStyle(
                     fontFamily: 'Montserrat',
                     fontSize: 14,

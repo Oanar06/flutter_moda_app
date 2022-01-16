@@ -63,7 +63,7 @@ class _DetayState extends State<Detay> {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: const <Widget>[
                             Text(
-                              "LAMINATED",
+                              "KEŞFET",
                               style: TextStyle(
                                   fontFamily: 'Montserrat',
                                   fontSize: 22,
@@ -105,7 +105,7 @@ class _DetayState extends State<Detay> {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: <Widget>[
                           const Text(
-                            "\$6500",
+                            "\₺6500",
                             style: TextStyle(
                                 fontFamily: 'Montserrat',
                                 fontSize: 22,
@@ -141,7 +141,7 @@ class _DetayState extends State<Detay> {
                 children: const [
                   Center(
                     child: Text(
-                      "LAMİNATED",
+                      "KEŞFET",
                       style: TextStyle(
                           fontFamily: 'Montserrat',
                           color: Colors.white,
